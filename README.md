@@ -1,4 +1,4 @@
-## News-articles-analysis
+## News Articles Analysis #NLP #Recommender System 
 
 As the market for consuming news from digital platforms has shown a sharp rise in past few years, I decided to work on ingesting daily news articles to uncover some interesting insights.
 
